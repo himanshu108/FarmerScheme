@@ -1,0 +1,54 @@
+﻿@model IEnumerable<SixthAttempt.Models.CropList>
+
+@{
+    ViewBag.Title = "showCrops";
+    Layout = "~/Views/Shared/_LayoutFarmer.cshtml";
+}
+
+<h2>showCrops</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.cropName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cropType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cropQuantity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.basePrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sellPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.cropName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cropType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cropQuantity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.basePrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sellPrice)
+        </td>
+        
+    </tr>
+}
+
+</table>

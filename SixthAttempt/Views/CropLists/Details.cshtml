@@ -1,0 +1,58 @@
+﻿@model SixthAttempt.Models.CropList
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CropList</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.cropName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cropName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cropType)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cropType)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.cropQuantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.cropQuantity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.basePrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.basePrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sellPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sellPrice)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.cropID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

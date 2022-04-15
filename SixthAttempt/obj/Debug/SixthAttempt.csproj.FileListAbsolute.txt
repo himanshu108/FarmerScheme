@@ -1,0 +1,182 @@
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.AssemblyReference.cache
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.CoreCompileInputs.cache
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\SixthAttempt.dll.config
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\SixthAttempt.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\SixthAttempt.pdb
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csc.exe
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csc.exe.config
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csc.rsp
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csi.exe
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csi.exe.config
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\csi.rsp
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.AppContext.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Console.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.Compression.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Net.Http.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.ValueTuple.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\vbc.exe
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\vbc.exe.config
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\vbc.rsp
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\VBCSCompiler.exe
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Antlr3.Runtime.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\EntityFramework.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\EntityFramework.SqlServer.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Newtonsoft.Json.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Net.Http.Formatting.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Helpers.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Http.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Http.WebHost.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Mvc.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Optimization.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Razor.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Razor.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\WebGrease.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\EntityFramework.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\EntityFramework.SqlServer.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Helpers.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Mvc.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Optimization.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Razor.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Razor.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Newtonsoft.Json.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Antlr3.Runtime.pdb
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Net.Http.Formatting.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Http.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\System.Web.Http.WebHost.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.CopyComplete
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.dll
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.pdb
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.Migrations.admin.resources
+C:\Users\rsmag\source\repos\Projects\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.GenerateResource.cache
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\SixthAttempt.dll.config
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\SixthAttempt.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\SixthAttempt.pdb
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csc.exe
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csc.exe.config
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csc.rsp
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csi.exe
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csi.exe.config
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\csi.rsp
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.AppContext.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Console.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.Compression.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Net.Http.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.ValueTuple.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\vbc.exe
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\vbc.exe.config
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\vbc.rsp
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\VBCSCompiler.exe
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Antlr3.Runtime.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\EntityFramework.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\EntityFramework.SqlServer.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Newtonsoft.Json.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Net.Http.Formatting.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Helpers.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Http.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Http.WebHost.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Mvc.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Optimization.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Razor.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Razor.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\WebGrease.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\EntityFramework.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\EntityFramework.SqlServer.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Helpers.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Mvc.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Optimization.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Razor.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.WebPages.Razor.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Newtonsoft.Json.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Antlr3.Runtime.pdb
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Net.Http.Formatting.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Http.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\System.Web.Http.WebHost.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.AssemblyReference.cache
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.Migrations.admin.resources
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.GenerateResource.cache
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.CoreCompileInputs.cache
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.csproj.CopyComplete
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.dll
+C:\Users\sai\Downloads\final project\SixthAttempt\SixthAttempt\obj\Debug\SixthAttempt.pdb
